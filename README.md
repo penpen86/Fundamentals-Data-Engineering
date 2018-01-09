@@ -1,7 +1,5 @@
 # template-activity-01
 
-
-
 ## Assignment 01: Set up and prerequisites
 
 1. Git
@@ -18,15 +16,20 @@ https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD
 
 
 
+2. Data Engineering Jobs
 
-2. Submit a PR for this assignment.
-- Change this `README.md` by writing your name below:;
+- Google "data engineering jobs"
+- Read ads (between 5&10)
+- What are companies looking for in skills, experience, competencies?
+  * Answer:
 
-My name is _____________________________. I have git, docker and a bash shell installed. I love data engineering!
+
+
+
+3. Submit a PR for this assignment.
+- You changed this `README.md` in part 2;
+
+- Commit your changes.
 
 - Submit a PR with this `README.md` changed.
-
-
-
-
-
+(following the instructions from the synchronous session)
