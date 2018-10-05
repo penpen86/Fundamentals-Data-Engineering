@@ -12,7 +12,7 @@ https://git-scm.com/downloads
 
 https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD
 
-- Follow the instructions to do what the videos walk you through. 
+- Follow the instructions to do what the videos walk you through.
 
 
 
@@ -33,3 +33,82 @@ https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD
 
 - Submit a PR with this `README.md` changed.
 (following the instructions from the synchronous session)
+
+
+4. You should know a few things about Markdown, the markup language that  determines how things look when you view them on the Github web interface. That is what we see when we review your work, so you should always check to see how your `README.me` file looks before you submit. You might check out [this cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for some pointers.
+
+Markdown is designed to look pretty much in plain text the way that you might guess it would look when made into pretty HTML.
+
+### Here are some basics.
+
+Use `#`, `##`, `###`, and so on to indicate headers. The header above is `###`.
+
+```
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+[This is a link](https://www.google.com)
+
+```
+
+Look like this:
+
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+[This is a link](https://www.google.com)
+
+#### Formatting Code
+
+Since much of what we'll be doing is showing code and output, it's important to know how to display that such that it is readable.
+
+    Inline `code` has `back-ticks around` it.
+
+Inline `code` has `back-ticks around` it.
+
+
+Blocks of code can be indicated by indenting with 4 spaces or with three back-ticks (<code>```</code).
+
+
+    ```sql
+    SELECT this, that, the_other
+    FROM my_table
+    ```
+
+```sql
+SELECT this, that, the_other
+FROM my_table;
+```
+
+    ```
+    col1               col2               col3
+    fun                dog                cat
+    mouse              rat                banana
+    ```
+
+```
+col1               col2               col3
+fun                dog                cat
+mouse              rat                banana
+```
+without the backticks, that sql would look like:
+
+SELECT this, that, the_other
+FROM my_table;
+
+
+and that pretty table would look like this (please don't do this!!):
+
+col1               col2               col3
+fun                dog                cat
+mouse              rat                banana
