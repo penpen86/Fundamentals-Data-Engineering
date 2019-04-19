@@ -22,10 +22,10 @@ https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD
 - Read ads (between 5&10)
 - What are companies looking for in skills, experience, competencies?
   * Answer: Many companies are looking for a Data Engineer: 
-  
-  1. Disney, ABC, NBC on the entretainment business. They want people with experience in Hadoop, Spatk, SQL, etc.
-  2. Morgan Stanley, JP Morgan, Hedge Funds in the finance sector. They want people to build trading pipelines with connections with kdb, Python, SQL.
-  3. AETNA, Avery, Medical hospital in the healtcare sector. They want people to build the entire pipeline.
+
+  a.- Disney, ABC, NBC on the entretainment business. They want people with experience in Hadoop, Spatk, SQL, etc.
+  b.- Morgan Stanley, JP Morgan, Hedge Funds in the finance sector. They want people to build trading pipelines with connections with kdb, Python, SQL.
+  c.- AETNA, Avery, Medical hospital in the healtcare sector. They want people to build the entire pipeline.
 
 
 3. Submit a PR for this assignment.
