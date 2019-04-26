@@ -3,6 +3,6 @@
 
 * Through 3 different activites, you will spin up existing containers and prepare the infrastructure to land the data in the form and structure it needs to be to be queried.
 
-i. Publish and consume messages with kafka.
-ii. Use spark to transform the messages.
-iii. Use spark to transform the messages so that you can land them in hdfs.
+i- Publish and consume messages with kafka.
+ii- Use spark to transform the messages.
+iii- Use spark to transform the messages so that you can land them in hdfs.
